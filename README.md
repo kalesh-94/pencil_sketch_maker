@@ -10,4 +10,4 @@ Convert images into realistic pencil sketches using Python and OpenCV.
 ## How to Use
 1. Install dependencies:
    ```bash
-   pip install opencv-python matplotlib
+   pip install opencv-python
